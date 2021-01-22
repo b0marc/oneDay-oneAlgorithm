@@ -6,5 +6,6 @@ Duración inicial: 1 mes, 1 algoritmo por día mínimo.
 - DAY 2: Tiempo: 5 min Enunciado: Input int[] nums Output: mayor suma posible tomando 2 numeros de nums[]. 
 - DAY 2_2: Tiempo: 7 min.  Input String s Output: nímero de veces que se repite cada caracter en s.  
 - DAY 3: Tiempo: >20min. Input String original y cadena a verificar String s. Output: verifica si s es rotación de 
-original.  
+original.
+- DAY 4: Tiempo: 9 min. Input: array bidimensional Outpu: diferencia absoluta entre las sumas de sus diagonales.  
 
