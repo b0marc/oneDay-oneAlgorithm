@@ -8,4 +8,5 @@ Duración inicial: 1 mes, 1 algoritmo por día mínimo.
 - DAY 3: Tiempo: >20min. Input String original y cadena a verificar String s. Output: verifica si s es rotación de 
 original.
 - DAY 4: Tiempo: 9 min. Input: array bidimensional Outpu: diferencia absoluta entre las sumas de sus diagonales.  
+- DAY 5: Tiempo: 11 min. Input: array ordenado Output: array sin duplicaciones.  
 
