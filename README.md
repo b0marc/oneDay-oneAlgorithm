@@ -10,3 +10,8 @@ original.
 - DAY 4: Tiempo: 9 min. Input: array bidimensional Outpu: diferencia absoluta entre las sumas de sus diagonales.  
 - DAY 5: Tiempo: 11 min. Input: array ordenado Output: array sin duplicaciones.  
 
+
+Añadida carpeta con ejercicios de SQL (queries).
+
+- Añadida carpeta computer-store con ddl y ejercicios
+
